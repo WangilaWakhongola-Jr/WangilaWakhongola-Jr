@@ -1,4 +1,4 @@
-<p align="left">
+<p align="center">
 
 
   <a href="https://git.io/typing-svg">
@@ -6,6 +6,7 @@
   </a>
 </p>
 # 💫 About Me:
+
 Lifelong Learner<br>I love computer & Science 
 
 
