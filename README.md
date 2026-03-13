@@ -1,4 +1,6 @@
 <p align="left">
+
+
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C7B7&width=500&lines=Let's+Build+Scalable+Systems+%F0%9F%9A%80;Let's+Architect+Cloud+Solutions+%E2%98%81%EF%B8%8F;Let's+Engineer+Software+Solutions+%F0%9F%92%BB;Let's+Secure+Networks+%26+Infrastructure+%F0%9F%94%92;Let's+Automate+%26+Deploy+with+DevOps+%F0%9F%94%A7;Let's+Design+Robust+Databases+%F0%9F%97%84%EF%B8%8F;Let's+Drive+Digital+Transformation+%F0%9F%8C%90" alt="Typing SVG" width="100%" />
   </a>
