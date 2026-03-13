@@ -35,15 +35,16 @@ Lifelong Learner<br>I love computer & Science
 ## 🏆 GitHub Stats:
 <div align="center">
 
-![Total Contributions](https://github-readme-stats.vercel.app/api?username=WangilaWakhongola-Jr=true&show_icons=true&hide_title=true&theme=radical)
+![Total Contributions](https://github-readme-stats.vercel.app/api?username=WangilaWakhongola-Jr&count_private=true&show_icons=true&hide_title=true&theme=radical)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=WangilaWakhongola-Jr=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=WangilaWakhongola-Jr&theme=radical)](https://git.io/streak-stats)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WangilaWakhongola-Jr&show_icons=true&locale=en&layout=compact&theme=radical)
 
 </div>
 
 ---
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=WangilaWakhongola-Jr&limit=5&theme=dark&combine_all_yearly_contributions=true)
