@@ -7,7 +7,7 @@
 </p>
 💫 About Me:
 
-Lifelong Learner<br>I love computer & Science 
+Lifelong Learner,<br>I love computer & Science 
 
 
 ## 💻 Tech Stack:
